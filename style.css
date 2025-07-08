@@ -1,0 +1,14 @@
+body {
+    background-color: #d8d29acd;
+    border: #000000cd;
+    border-style: groove;
+    margin: 30%;
+    padding: 10%;
+    
+}
+
+.margin{
+    text-align: center;
+    border-color: #000000cd;
+}
+
